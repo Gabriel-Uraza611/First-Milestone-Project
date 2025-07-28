@@ -2,7 +2,7 @@
 ## Date: 28/06/2025
 ## Dev: Gabriel Uraza
 
-### 1.0 Tic-Tac-Toe
+### Tic-tac-toe patch 1.0
 El proyecto consiste en un juego de triqui
 Oficialmente el proyecto ha sido exitosamente terminado segun los requerimientos solicitados:
 
